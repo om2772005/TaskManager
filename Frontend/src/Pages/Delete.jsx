@@ -203,6 +203,7 @@ const Delete = () => {
           <p className="text-center mt-6 text-gray-500">No more tasks to load.</p>
         )}
       </div>
+
       {showConfirmModal && (
         <div className="fixed inset-0 backdrop-blur-sm bg-white/30 flex items-center justify-center z-50">
           <div className="bg-white rounded-xl p-8 shadow-xl text-center w-80">

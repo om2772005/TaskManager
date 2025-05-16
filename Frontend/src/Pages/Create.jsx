@@ -110,7 +110,8 @@ const Create = () => {
             <h3 className="text-xl font-semibold mb-4 text-gray-800">Task Created Successfully!</h3>
             <div className="flex flex-col gap-4">
               <button onClick={() => navigate('/home')} className="w-full bg-blue-600 text-white py-2 rounded-lg hover:bg-blue-700 transition" > Go Back to Home </button>
-              <button onClick={() => navigate('/view')} className="w-full bg-gray-200 text-gray-800 py-2 rounded-lg hover:bg-gray-300 transition" >View Your Tasks </button>
+              <button onClick={() => navigate('/view')} className="w-full bg-gray-200 text-gray-800 py-2 rounded-lg hover:bg-gray-300 transition" >View Your Tasks
+ </button>
             </div>
           </div>
         </div>

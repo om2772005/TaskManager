@@ -118,6 +118,7 @@ const List = () => {
         <h1 className="text-3xl font-bold text-center text-gray-800 mb-6">
           Your Tasks
         </h1>
+
         <input
           type="text"
           placeholder="Search tasks by title or description..."
