@@ -132,6 +132,7 @@ http://localhost:5173
 ## 🌐 Live Demo
 
 Check out the live version:
+(Takes 40-50 second at first login please be patient!)
 
 🔗 [https://hilarious-faloodeh-4662f4.netlify.app](https://hilarious-faloodeh-4662f4.netlify.app)
 
